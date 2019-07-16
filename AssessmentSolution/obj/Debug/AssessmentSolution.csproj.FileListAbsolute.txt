@@ -1,0 +1,8 @@
+C:\Users\MANU\Pragati\test applications\AssessmentSolution\AssessmentSolution\bin\Debug\AssessmentSolution.exe.config
+C:\Users\MANU\Pragati\test applications\AssessmentSolution\AssessmentSolution\bin\Debug\AssessmentSolution.exe
+C:\Users\MANU\Pragati\test applications\AssessmentSolution\AssessmentSolution\bin\Debug\AssessmentSolution.pdb
+C:\Users\MANU\Pragati\test applications\AssessmentSolution\AssessmentSolution\obj\Debug\AssessmentSolution.csprojAssemblyReference.cache
+C:\Users\MANU\Pragati\test applications\AssessmentSolution\AssessmentSolution\obj\Debug\AssessmentSolution.csproj.CoreCompileInputs.cache
+C:\Users\MANU\Pragati\test applications\AssessmentSolution\AssessmentSolution\obj\Debug\AssessmentSolution.exe
+C:\Users\MANU\Pragati\test applications\AssessmentSolution\AssessmentSolution\obj\Debug\AssessmentSolution.pdb
+C:\Users\MANU\Pragati\test applications\AssessmentSolution\AssessmentSolution\bin\Debug\DataFiles\Assessment Input.txt
